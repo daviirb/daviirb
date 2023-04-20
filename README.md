@@ -6,7 +6,7 @@ Após passar cerca de 2 anos trabalhando diretamente com programadores, ajudando
 
 Estou entusiasmado aprender cada vez mais novas habilidades em programação para desenvolver soluções tecnológicas e inovadoras.
 
-
+git status
 
 
 
