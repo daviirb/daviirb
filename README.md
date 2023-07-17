@@ -9,8 +9,6 @@ Após passar cerca de 2 anos trabalhando diretamente com programadores, ajudando
 🌱 Estou entusiasmado aprender cada vez mais novas habilidades em programação para desenvolver soluções tecnológicas e inovadoras.
 
 
-Você pode encontrar mais informações sobre minhas habilidades em programação no meu perfil do Github: https://github.com/daviirb
-
 
 
 
