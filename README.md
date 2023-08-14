@@ -10,7 +10,6 @@
 
 ###
 
-<p align="left">Front-End</p>
 
 ###
 
