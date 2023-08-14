@@ -1,30 +1,37 @@
-### Olá 👋 
+# Davi Ribeiro
 
-Desenvolvedor Front-end em formação pela EBAC – Escola Britânica de Artes Criativas e Tecnologia
+[LinkedIn](https://www.linkedin.com/in/daviirb/) | [GitHub](https://github.com/daviirb) | +55 27 99978-4617 | davi.rb@hotmail.com
 
-Tenho 26 anos, sou militar em transição de carreira e sempre fui apaixonado pela área de Desenvolvimento.
+## About Me
 
-Após passar cerca de 2 anos trabalhando diretamente com programadores, ajudando a testar na prática alguns sistemas de Defesa Militar, resolvi iniciar um curso na área da programação e descobri que minha verdadeira paixão é a programação. Agora estou em transição de carreira para a área de TI.
+I am a passionate Front-End Developer with a strong background in web development and a focus on creating engaging and responsive user experiences. Currently, I am a Full Stack Python developer in training at EBAC – British School of Creative Arts and Technology.
 
-🌱 Estou entusiasmado aprender cada vez mais novas habilidades em programação para desenvolver soluções tecnológicas e inovadoras.
+I thrive in collaborative environments, utilizing my skills in HTML5, CSS3, JavaScript, JQuery, and Bootstrap to craft visually appealing front-end layouts. My familiarity with GitHub ensures efficient code versioning and seamless teamwork.
 
+## Professional Highlights
 
+- Full Stack Python Developer in training at EBAC – British School of Creative Arts and Technology.
+- Experience in creating responsive websites and landing pages using WordPress.
+- Proficient in designing and implementing user interfaces with HTML, CSS, and JavaScript.
+- Familiar with Bootstrap, JQuery, React, and Figma.
+- Notions of Agile methodologies (SCRUM).
 
+## Projects
 
+- [Ebac Shoes](https://ebac-shoes-daviirb.vercel.app/): Created a responsive layout for an online store using HTML, CSS, and media queries.
+- [Cadastro](https://cadastro-ebac-daviirb.vercel.app/): Developed a registration form utilizing JQuery plugins for enhanced user experience.
+- [Task List](https://vercel.com/daviirb/lista-de-tarefas): Designed a to-do list application using HTML, CSS, and JQuery.
 
+## Language Proficiency
 
+- English: B2 level
+- Portuguese: Native
 
-<!--
-**daviirb/daviirb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact
 
-Here are some ideas to get you started:
+I am actively seeking opportunities to contribute my skills and passion to innovative projects. If you are interested in collaboration or would like to discuss how my expertise aligns with your goals, feel free to reach out to me at [Phone Number] or [Email Address].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Looking forward to exciting endeavors ahead!
+
+Sincerely,
+Davi Ribeiro
