@@ -1,30 +1,25 @@
-<h1 align="left">Olá 👋</h1>
+# Davi Ribeiro
 
-###
+Tenho 26 anos, sou militar em transição de carreira e sempre fui apaixonado pela área de Desenvolvimento.
 
-<p align="left">Tenho 26 anos, sou militar em transição de carreira e sempre fui apaixonado pela área de Desenvolvimento.<br><br>Após passar cerca de 2 anos trabalhando diretamente com programadores, ajudando a testar na prática alguns sistemas de Defesa Militar, resolvi iniciar um curso na área da programação e descobri que minha verdadeira paixão é a programação. Agora estou em transição de carreira para a área de TI.<br><br>🌱 Estou entusiasmado aprender cada vez mais novas habilidades em programação para desenvolver soluções tecnológicas e inovadoras.</p>
+Após passar cerca de 2 anos trabalhando diretamente com programadores, ajudando a testar na prática alguns sistemas de Defesa Militar, resolvi iniciar um curso na área da programação e descobri que minha verdadeira paixão é a programação. Agora estou em transição de carreira para a área de TI.
 
-###
+🌱 Estou entusiasmado aprender cada vez mais novas habilidades em programação para desenvolver soluções tecnológicas e inovadoras.
 
-<h2 align="center">Skills 🛠️</h2>
+### Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/daviirb/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:davi.rb@hotmail.com)
 
-###
+
+### Habilidades
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
 
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-</div>
-
-###
+### GitHub Stats
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daviirb&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
