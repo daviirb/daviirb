@@ -2,7 +2,11 @@
 
 Desenvolvedor Front-end | Estudante de Ciência da Computação
 
-Atualmente me graduando em Ciência da Computação e focado no aprimoramento das minhas habilidades como Desenvolvedor Full Stack.
+Tenho 26 anos, sou desenvolvedor front-end e atualmente estou me graduando em Ciência da Computação.
+
+Após passar cerca de 2 anos trabalhando diretamente com programadores, ajudando a testar na prática alguns sistemas de Defesa Militar, resolvi iniciar um curso na área da programação e descobri que minha verdadeira paixão é a programação. 
+
+🌱 Estou entusiasmado aprender cada vez mais novas habilidades em programação para desenvolver soluções tecnológicas e inovadoras.
 
 Tecnologias:
 - Angular
