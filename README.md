@@ -1,20 +1,22 @@
 # Davi Ribeiro
 
+Como desenvolvedor front-end, transformo linhas de código em experiências visuais, buscando constantemente a inovação e aprimoramento.
+
+Minha jornada acadêmica não é apenas um percurso, mas sim o alicerce sólido que sustenta minha paixão pela tecnologia, proporcionando um conhecimento profundo e uma base robusta.
+
+A tecnologia move o mundo e a criatividade o faz girar. - Neil Armstrong
+
 Desenvolvedor Front-end | Estudante de Ciência da Computação
 
-Tenho 26 anos, sou desenvolvedor front-end e estou me graduando em Ciência da Computação.
-
-Após passar cerca de 2 anos trabalhando diretamente com programadores, ajudando a testar na prática alguns sistemas de Defesa Militar, resolvi iniciar um curso na área da programação e descobri que minha verdadeira paixão é a programação. 
-
-🌱 Estou entusiasmado aprender cada vez mais novas habilidades em programação para desenvolver soluções tecnológicas e inovadoras.
-
 Tecnologias:
-- Angular
+
 - React
+- Angular
+- Node.js
 - Phyton
 - Typescript
-- JavaScript (ES6) 
-- Bootstrap 
+- JavaScript (ES6)
+- Bootstrap
 - JQuery
 - Git/ GitHub
 
