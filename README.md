@@ -1,6 +1,6 @@
 # Davi Ribeiro
 
-Como desenvolvedor front-end, transformo linhas de código em experiências visuais, buscando constantemente a inovação e aprimoramento.
+Como desenvolvedor full stack, transformo linhas de código em experiências visuais, buscando constantemente a inovação e aprimoramento.
 
 Minha jornada acadêmica não é apenas um percurso, mas sim o alicerce sólido que sustenta minha paixão pela tecnologia, proporcionando um conhecimento profundo e uma base robusta.
 
