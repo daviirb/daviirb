@@ -10,6 +10,7 @@ Desenvolvedor Front-end | Estudante de Ciência da Computação
 
 Tecnologias:
 
+- React Native
 - React
 - Angular
 - Node.js
