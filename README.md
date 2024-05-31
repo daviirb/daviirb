@@ -15,7 +15,7 @@ Programming languages:
 
 Libs and Frameworks:
 
-[![My Skills](https://skillicons.dev/icons?i=react,angular,nodejs,tensorflow,jest,nextjs,tailwind)](https://www.linkedin.com/in/daviirb)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,nodejs,nextjs,angular,tensorflow,jest)](https://www.linkedin.com/in/daviirb)
 
 Databases:
 
