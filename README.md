@@ -1,6 +1,7 @@
 # Davi Ribeiro
 
 ### Mobile React Native Developer
+I currently work at a startup that develops a sales force application used by Heineken distributors in Brazil. My responsibilities include implementing new features in the app and fixing bugs, ensuring an efficient and fluid user experience.
 
 ### Connect with me
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daviirb)
