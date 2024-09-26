@@ -11,7 +11,7 @@ I currently work at a startup that develops a sales force application used by He
 ### Skills
 Programming languages:
 
-[![My Skills](https://skillicons.dev/icons?i=java,ts,py)](https://www.linkedin.com/in/daviirb)
+[![My Skills](https://skillicons.dev/icons?i=java,ts,go)](https://www.linkedin.com/in/daviirb)
 
 Libs and Frameworks:
 
