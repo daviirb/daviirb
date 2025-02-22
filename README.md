@@ -11,11 +11,11 @@ I currently work at a startup that develops a sales force application used by He
 ### Skills
 Programming languages:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,go,java)](https://www.linkedin.com/in/daviirb)
+[![My Skills](https://skillicons.dev/icons?i=ts,go)](https://www.linkedin.com/in/daviirb)
 
 Libs and Frameworks:
 
-[![My Skills](https://skillicons.dev/icons?i=spring,react,tailwind,nodejs,nextjs,angular,tensorflow,jest)](https://www.linkedin.com/in/daviirb)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,angular,tensorflow,jest)](https://www.linkedin.com/in/daviirb)
 
 Databases:
 
